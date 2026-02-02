@@ -1,2 +1,2 @@
-# Forecast-container
+# Forecast-Container
 Учебная программа с простым и сложным (аналог std::vector) классами, а также диалоговой программой и unit-тестами
